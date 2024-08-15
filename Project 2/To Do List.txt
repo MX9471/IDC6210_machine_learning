@@ -1,0 +1,22 @@
+To Do List
+
+- Apply Regularization method to Logistic Regression - done
+- Encode labels above and below 50k to training/test data
+- Be able to transfer code to test data
+- Apply all relevant testing methods to training/testing data - done
+- Standard Scaling - done
+- Convert categorical data - done
+- Missing Imputations - done
+- Stratify y - done
+
+Perceptron 
+
+Logistic Regression
+
+SVM 
+
+Decision Trees 
+
+KNN
+
+Random Forest 
